@@ -16,5 +16,10 @@
 - It will open a small window  
 - Locate the .vbox file that we just unzipped and click "open"  
 - It will install the Kali Linux in VM with default settings  
-- You can change the settings later on by going to "setting" option
+- You can change the settings later on by going to "setting" option  
+
+  ⏯️ **Usage**
+  Login with:
+  - Username: kali
+  - Password: kali
 
