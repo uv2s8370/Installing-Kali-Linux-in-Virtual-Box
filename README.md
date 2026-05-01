@@ -5,4 +5,7 @@ I am using Virtual Box from Oracle as my VM.
 # 🛠️**Requirements**
 * Virtual Box
 * Kali Linux VM image
+* WinRAR/7zip 
 * Minimum 8 GB RAM
+* ~30 GB storage
+  
