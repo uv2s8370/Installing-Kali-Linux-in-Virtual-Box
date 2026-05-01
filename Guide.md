@@ -23,3 +23,7 @@
   - Username: kali
   - Password: kali
 
+   ⚠️**Note**  
+  For detailed setup instructions, refer to the official Kali documentation
+  
+
