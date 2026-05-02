@@ -26,5 +26,5 @@
    ⚠️**Note**  
   For detailed setup instructions, refer to the official Kali documentation
 
-  [⬅️ Back to Main Readme](README.md)
+  [⬅️ Back to Main Readme](../README.md)
 
