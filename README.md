@@ -8,4 +8,11 @@ I am using Virtual Box from Oracle as my VM.
 * WinRAR/7zip 
 * Minimum 8 GB RAM
 * ~30 GB storage
-  
+
+# 🍴 How to Fork this Repository
+1. Go to this repository on GitHub
+2. Click the Fork button (top right)
+3. This creates a copy in your account
+
+🤝 **Contributing**  
+See CONTRIBUTING.md for full guidelines
