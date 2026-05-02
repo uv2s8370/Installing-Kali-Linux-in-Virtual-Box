@@ -15,4 +15,4 @@ I am using Virtual Box from Oracle as my VM.
 3. This creates a copy in your account
 
 🤝 **Contributing**  
-See CONTRIBUTING.md for full guidelines
+See CONTRIBUTING.md for full guidelines. [Click Here](CONTRIBUTING.md)
